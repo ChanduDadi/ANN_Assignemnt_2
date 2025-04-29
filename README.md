@@ -5,6 +5,3 @@ This project implements a complete and modular deep learning pipeline in **PyTor
 The models and training logic are implemented using PyTorch best practices, with support for visualizations and hyperparameter tuning.
 
 ---
-
-## 📁 Folder Structure
-
